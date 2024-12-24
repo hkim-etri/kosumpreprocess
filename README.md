@@ -1,6 +1,4 @@
-# kosumpreprocess
-
-# Ko-Summarization-Preprocess
+# Ko-Summarization-Preprocess (kosumpreprocess)
 
 
 # Usage
